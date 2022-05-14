@@ -1,0 +1,57 @@
+body {
+  font-family: Verdana, sans-serif;
+}
+h1 {
+  font-size: 30px;
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+  line-height: 1;
+  font-size: 16px;
+}
+#current-temperature {
+  font-size: 70px;
+}
+.weatherapp {
+  border: 1px solid #d6d6d6;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px auto;
+  max-width: 600px;
+}
+.weekday-unit {
+  border: 1px solid #d6d6d6;
+  padding: 5px;
+  margin: 2px;
+  border-radius: 10px;
+}
+.rain_sun_icon {
+  color: #505f7f;
+  font-size: 40px;
+}
+.sunny_icon {
+  font-size: 150px;
+  color: yellow;
+  padding: 15px;
+}
+.showers_icon {
+  font-size: 40px;
+  color: #3c424f;
+}
+.thunder_strom_icon {
+  font-size: 40px;
+  color: #2f3135;
+}
+.partly_sunny_icon {
+  color: #96afe0;
+  font-size: 40px;
+}
+.cloudy_icon {
+  font-size: 40px;
+  color: #adb2bc;
+}
